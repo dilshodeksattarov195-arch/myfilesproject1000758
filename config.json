@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdarse",
+        "uuid": 3075206,
+        "checksum": "08fnbll"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
